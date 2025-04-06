@@ -1,0 +1,21 @@
+# Environment variables (API keys)
+.env
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# IDE/editor junk
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/

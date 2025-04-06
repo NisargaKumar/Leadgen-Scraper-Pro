@@ -19,7 +19,8 @@ LeadGen Scraper Pro is a lightweight Streamlit application that helps you extrac
 
 ## 🚀 Demo
 
-![screenshot](https://via.placeholder.com/1200x600?text=LeadGen+Scraper+Pro+UI+Preview)
+![Leadgen Scraper UI](assets/Leadgen_UI.png)
+![Leadgen Scraper UI](assets/Leadgen_UI_2.png)
 
 ---
 

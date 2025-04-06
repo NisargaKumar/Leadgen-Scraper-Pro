@@ -1,4 +1,3 @@
-
 # 🚀 LeadGen Scraper Pro
 
 LeadGen Scraper Pro is a lightweight Streamlit application that helps you extract **publicly available business leads** (emails, social media links, and domains) based on Google search queries. Perfect for marketers, sales teams, freelancers, or anyone looking to build lead lists fast and ethically.
